@@ -57,9 +57,9 @@ BrickGame v1.0 is a console-based Tetris game developed in C using the ncurses l
 
 ## Gameplay
 
-![Gameplay GIF](media/gameplay.gif)
+![Gameplay GIF](dvi/media/gameplay.gif)
 
 ## Finite State Machine (FSM) Diagram
 
-![FSM Diagram](media/fsm/fsm.png)
+![FSM Diagram](dvi/media/fsm/fsm.png)
 
